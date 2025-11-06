@@ -97,3 +97,8 @@ Optimize project structure as it grows
 Feedback:
 
 As a beginner developer, I welcome suggestions, code reviews, or ideas that could help me improve and learn faster. Feel free to open issues, submit pull requests, or share feedback.
+
+## Download Game Build
+Download the latest playable version here:
+https://github.com/mrhoax308/MyUnrealGameProject/releases/tag/v1.0
+
